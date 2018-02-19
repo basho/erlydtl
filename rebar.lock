@@ -1,1 +1,8 @@
-[].
+[{<<"eunit_formatters">>,
+  {git,"git://github.com/seancribbs/eunit_formatters",
+       {ref,"35e3e6ab2db48af776a1a21bba6f1461c97caacb"}},
+  0},
+ {<<"slex">>,
+  {git,"git://github.com/erlydtl/slex.git",
+       {ref,"6afa3912bb044c5ea4dbf02422b455b0a710bc97"}},
+  0}].
