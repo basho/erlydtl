@@ -17,3 +17,5 @@ deps
 /.project
 include/yeccpre-*.hrl
 src/erlydtl.app.src-*
+_build/*
+*.plt
